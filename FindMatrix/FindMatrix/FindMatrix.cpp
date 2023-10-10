@@ -124,7 +124,7 @@ int main() {
 
 
 // multiplication matrix 
-
+/*
 void mult(int* a, int* b, int* res, int size, int rows, int cols) {
     for (int k = 0; k < rows; k++) {
         for (int j = 0; j < cols; j++) {
@@ -164,3 +164,4 @@ int main() {
 
     return 0;
 }
+*/
